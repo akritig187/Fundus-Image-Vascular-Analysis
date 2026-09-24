@@ -8,6 +8,9 @@
 
 # Datasets:
 DRIVE: [https://www.kaggle.com/datasets/andrewmvd/drive-digital-retinal-images-for-vessel-extraction](https://www.kaggle.com/datasets/andrewmvd/drive-digital-retinal-images-for-vessel-extraction)
+
 Chase-DB1: [https://www.kaggle.com/datasets/rashasarhanalharthi/chase-db1](https://www.kaggle.com/datasets/rashasarhanalharthi/chase-db1)
+
 STARE: [https://www.kaggle.com/datasets/akriti187/dataset-stare](https://www.kaggle.com/datasets/akriti187/dataset-stare)
+
 HRF: [https://www.kaggle.com/datasets/akriti187/hrf-dataset](https://www.kaggle.com/datasets/akriti187/hrf-dataset)
