@@ -5,6 +5,8 @@
 
 ● Integrated a post-processing stage to clean and refine predicted vessel maps, obtaining Dice scores of 0.88 (CHASE_DB1), 0.84 (STARE), 0.83 (DRIVE), and 0.81 (HRF) across four publicly available datasets.
 
+● High-quality segmented images can further be used in early detection of Opthalmic diseases.
+
 
 # Datasets:
 DRIVE: [https://www.kaggle.com/datasets/andrewmvd/drive-digital-retinal-images-for-vessel-extraction](https://www.kaggle.com/datasets/andrewmvd/drive-digital-retinal-images-for-vessel-extraction)
